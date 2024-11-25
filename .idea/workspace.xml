@@ -4,43 +4,111 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b02c9682-2547-47a3-8065-4fba01572819" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="b02c9682-2547-47a3-8065-4fba01572819" name="Changes" comment="Initialize Repo">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/Boundary/MovieService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/Control/MovieController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/Domain/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/Domain/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/Domain/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/Domain/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/Domain/PaymentInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/Domain/RegisteredUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/Domain/Seat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/Domain/Theater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/Domain/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/Domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/forms/Main.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/forms/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/database/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2pGk9tEGTgO03qrUTVM0TwKUti8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.org.ensf480.forms.Main.executor": "Run",
+    "Database Script.schema.sql.executor": "Run",
+    "Database Script.schema.sqll.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ],
+    "RunConfigurationTargetLRU": [
+      "56634b33-0d55-4fd2-baba-222d58b9234f",
+      "56634b33-0d55-4fd2-baba-222d58b9234f/schema/\"THEATER480\""
+    ]
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/database" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.org.ensf480.forms.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <option name="MAIN_CLASS_NAME" value="org.ensf480.Main" />
       <module name="ENSF480Final" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.ensf480.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.ensf480.forms.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ensf480.forms.Main" />
+      <module name="ENSF480Final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ensf480.forms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,9 +118,17 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.ensf480.forms.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-f644763e9732-7e92f9a0" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -62,10 +138,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732399651967</updated>
+      <workItem from="1732399652994" duration="145000" />
+      <workItem from="1732399801831" duration="1708000" />
+      <workItem from="1732401522650" duration="3249000" />
     </task>
+    <task id="LOCAL-00001" summary="Initialize Repo">
+      <option name="closed" value="true" />
+      <created>1732399778379</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732399778379</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initialize Repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initialize Repo" />
   </component>
 </project>
