@@ -1,9 +1,6 @@
 package org.ensf480.Boundary;
 
 public class MovieService {
-    public void addMovie() {
-        System.out.println("Adding movie...");
-    }
 
     public void deleteMovie() {
         System.out.println("Deleting movie...");

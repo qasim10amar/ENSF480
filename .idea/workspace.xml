@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b02c9682-2547-47a3-8065-4fba01572819" name="Changes" comment="Initialize Repo">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/Boundary/MovieService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/Control/MovieController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/Domain/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/Domain/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/Domain/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/Domain/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/Domain/PaymentInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/Domain/RegisteredUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/Domain/Seat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/Domain/Theater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/Domain/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/Domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/forms/Main.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/forms/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/database/schema.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ensf480/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="b02c9682-2547-47a3-8065-4fba01572819" name="Changes" comment="Initialize Repo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -68,9 +48,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   },
