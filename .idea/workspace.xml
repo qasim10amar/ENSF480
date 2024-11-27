@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b02c9682-2547-47a3-8065-4fba01572819" name="Changes" comment="Test" />
+    <list default="true" id="b02c9682-2547-47a3-8065-4fba01572819" name="Changes" comment="Test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +59,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -130,7 +132,7 @@
       <workItem from="1732399652994" duration="145000" />
       <workItem from="1732399801831" duration="1708000" />
       <workItem from="1732401522650" duration="3249000" />
-      <workItem from="1732672385753" duration="1188000" />
+      <workItem from="1732672385753" duration="2113000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize Repo">
       <option name="closed" value="true" />
@@ -168,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1732673578854</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Test">
+      <created>1732673955502</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732673955502</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
